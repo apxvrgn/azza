@@ -1,0 +1,17 @@
+{
+    "name" : "Onyx Black",
+    "code" : "CSAZ-260",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Patterns on Patterns", "left": "true" },
+        { "i": "2.jpg", "v": "Legacy Drive Support", "left": "true" },
+        { "i": "3.jpg", "v": "Abundant I/O", "left": "false" },
+        { "i": "4.jpg", "v": "Ventilation Cutouts", "left": "false" },
+        { "i": "5.jpg", "v": "Tempered Glass", "left": "true" }
+    ]
+}

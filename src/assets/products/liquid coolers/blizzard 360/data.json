@@ -1,0 +1,13 @@
+{
+    "name" : "Blizzard 360",
+    "code" : "LCAZ-360",
+    "type" : "360mm All-in-One Liquid Cooler",
+    "overview" : [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "true" }
+    ]
+}

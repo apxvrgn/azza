@@ -1,0 +1,18 @@
+{
+    "name" : "Pyramid Mini",
+    "code" : "CSAZ-806",
+    "type" : "Mini-ITX Pyramid Enclosure",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "A Miniature Showpiece", "left": "true" },
+        { "i": "3.jpg", "v": "Front I/O", "left": "true" },
+        { "i": "4.jpg", "v": "Anodized Aluminum Structure", "left": "false" },
+        { "i": "5.jpg", "v": "SFX Power Supply Only", "left": "false" },
+        { "i": "6.jpg", "v": "Ethereal Lighting", "left": "true" },
+        { "i": "8.jpg", "v": "", "left": "true" }
+    ]
+}

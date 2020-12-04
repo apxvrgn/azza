@@ -1,0 +1,19 @@
+{
+    "name" : "Obsidian",
+    "code" : "CSAZ-270",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "A Functional Aesthetic", "left": "false" },
+        { "i": "2.jpg", "v": "Integrated Headphone Stand", "left": "true" },
+        { "i": "3.jpg", "v": "Prismatic Lighting", "left": "false" },
+        { "i": "4.jpg", "v": "Front Tempered Glass", "left": "true" },
+        { "i": "5.jpg", "v": "Top Tempered Glass", "left": "true" },
+        { "i": "6.jpg", "v": "Side Tempered Glass", "left": "false" }
+    ]
+}

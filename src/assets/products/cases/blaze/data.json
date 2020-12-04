@@ -1,0 +1,17 @@
+{
+    "name" : "Blaze",
+    "code" : "CSAZ-231",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Red On Black", "left": "true" },
+        { "i": "2.jpg", "v": "Tempered Glass", "left": "true" },
+        { "i": "3.jpg", "v": "Filtered Ventilation", "left": "false" },
+        { "i": "4.jpg", "v": "Top I/O", "left": "false" }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name" : "Eclipse",
+    "code" : "CSAZ-440",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Audacious", "left": "true" },
+        { "i": "2.jpg", "v": "Filtered Ventilation", "left": "false" },
+        { "i": "3.jpg", "v": "Subtle RGB Lighting", "left": "true" },
+        { "i": "4.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "5.jpg", "v": "SSD Mounts", "left": "true" },
+        { "i": "6.jpg", "v": "Plentiful I/O", "left": "true" },
+        { "i": "7.jpg", "v": "Hard Drive Cage", "left": "false" }
+    ]
+}

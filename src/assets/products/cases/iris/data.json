@@ -1,0 +1,19 @@
+{
+    "name" : "Iris",
+    "code" : "CSAZ-330",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Grid & Glow", "left": "true" },
+        { "i": "2.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "3.jpg", "v": "Filtered Ventilation", "left": "true" },
+        { "i": "4.jpg", "v": "Kaleidoscopic Lighting", "left": "true" },
+        { "i": "5.jpg", "v": "Easy Access I/O", "left": "false" },
+        { "i": "6.jpg", "v": "Hard Drive Cage", "left": "false" }
+    ]
+}

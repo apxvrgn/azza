@@ -1,0 +1,17 @@
+{
+    "name" : "Golem",
+    "code" : "CSAZ-221",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Powerful & Stoic", "left": "true" },
+        { "i": "2.jpg", "v": "Legacy Support", "left": "false" },
+        { "i": "3.jpg", "v": "Shroud Ventilation", "left": "true" },
+        { "i": "4.jpg", "v": "Hard Drive Cage", "left": "false" }
+    ]
+}

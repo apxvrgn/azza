@@ -1,0 +1,16 @@
+{
+    "name" : "Pyramid L",
+    "code" : "CSAZ-804L",
+    "type" : "ATX Pyramid Enclosure",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "An Icon", "left": "true" },
+        { "i": "1.jpg", "v": "Upgraded Functionality", "left": "true" },
+        { "i": "2.jpg", "v": "Everlasting Design", "left": "false" },
+        { "i": "3.jpg", "v": "30 Series Compatible", "left": "true" }
+    ]
+}

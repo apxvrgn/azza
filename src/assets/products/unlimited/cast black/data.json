@@ -1,0 +1,18 @@
+{
+    "name" : "Cast",
+    "code" : "CSAZ-808",
+    "type" : "Unique ATX Mid Tower",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "A Paradigm Shift", "left": "false" },
+        { "i": "1.jpg", "v": "Tasteful Branding", "left": "true" },
+        { "i": "2.jpg", "v": "Minimalistic Masterpiece", "left": "false" },
+        { "i": "3.jpg", "v": "Innovative Design", "left": "true" },
+        { "i": "4.jpg", "v": "", "left": "true" }
+    ]
+}

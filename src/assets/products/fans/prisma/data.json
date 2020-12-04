@@ -1,0 +1,14 @@
+{
+    "name" : "Prisma",
+    "code" : "FNAZ-12DRGB",
+    "type" : "120 mm ARGB Fan",
+    "overview": [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Kaleidoscopic", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "true" },
+        { "i": "3.jpg", "v": "Refining Your Build", "left": "false" }
+    ]
+}

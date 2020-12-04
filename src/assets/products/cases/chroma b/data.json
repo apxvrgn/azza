@@ -1,0 +1,16 @@
+{
+    "name" : "Chroma B",
+    "code" : "CSAZ-410B",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Stunning Transparent Design", "left": "true" },
+        { "i": "2.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "3.jpg", "v": "Vivid RGB Fans", "left": "true" },
+        { "i": "4.jpg", "v": "Accessible I/O", "left": "true" }
+    ]
+}

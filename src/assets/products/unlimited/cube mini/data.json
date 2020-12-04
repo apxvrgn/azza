@@ -1,0 +1,24 @@
+{
+    "name" : "Cube Mini",
+    "code" : "CSAZ-805",
+    "type" : "Mini-ITX Cube Enclosure",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png",
+        "5.png",
+        "6.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "A Masterpiece", "left": "true" },
+        { "i": "2.jpg", "v": "Clean I/O", "left": "true" },
+        { "i": "3.jpg", "v": "Full Aluminum Construction", "left": "false" },
+        { "i": "4.jpg", "v": "Triple Tempered Glass", "left": "true" },
+        { "i": "5.jpg", "v": "Dual Chamber Design", "left": "false" },
+        { "i": "6.jpg", "v": "RGB Fan Included", "left": "true" },
+        { "i": "7.jpg", "v": "SSD Holder", "left": "false" },
+        { "i": "8.jpg", "v": "Stylistic Case Stand", "left": "true" }
+    ]
+}

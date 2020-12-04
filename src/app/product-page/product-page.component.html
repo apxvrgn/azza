@@ -1,0 +1,50 @@
+<section id="overview">
+    <div class="section-title">
+        <h4>overview</h4>
+    </div>
+    <div class="content">
+        <!--<img class="display-image" src="{{path}}\001\{{product.overview[0]}}">-->
+        <ngb-carousel *ngIf="product.overview" class="carousel" animation="true">
+            <ng-template ngbSlide *ngFor="let p of product.overview">
+              <div class="img-wrapper">
+                <img class="display-image" src="{{path}}\001\{{p}}">
+              </div>
+            </ng-template>
+        </ngb-carousel>
+        <div class="product-title">
+            <h2>{{product.code}}</h2>
+            <h1>{{product.name}}</h1>
+            <h3>{{product.type}}</h3>
+        </div>
+    </div>
+</section>
+<section id="features">
+    <div class="section-title">
+        <h4>features</h4>
+    </div>
+    <ngb-carousel *ngIf="product.features">
+        <ng-template ngbSlide *ngFor="let f of product.features">
+          <div class="img-wrapper">
+            <img class="feature-image" src="{{path}}\002\{{f.i}}">
+          </div>
+          <ng-template [ngIf]="f.left === 'true'" [ngIfElse]="rightText">
+            <div class="feature-text left">{{f.v}}</div>
+          </ng-template>
+          <ng-template #rightText>
+            <div class="feature-text right">{{f.v}}</div>
+          </ng-template>
+        </ng-template>
+    </ngb-carousel>
+</section>
+<section id="dimensions">
+    <div class="section-title">
+        <h4>dimensions</h4>
+    </div>
+    <img src="{{path}}\003\0.jpg">
+</section>
+<section id="specifications">
+    <div class="section-title">
+        <h4>specifications</h4>
+    </div>
+    <app-product-specification path="{{path}}\data.xlsx"></app-product-specification>
+</section>

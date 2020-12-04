@@ -1,0 +1,14 @@
+{
+    "name" : "Hurricane",
+    "code" : "FNAZ-12RGB",
+    "type" : "120 mm RGB Fan",
+    "overview": [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Illuminate", "left": "false" },
+        { "i": "1.jpg", "v": "Anti-Vibration Pads", "left": "true" },
+        { "i": "2.jpg", "v": "Slim Halo", "left": "false" },
+        { "i": "3.jpg", "v": "Optimized Aerodynamics", "left": "true" }
+    ]
+}

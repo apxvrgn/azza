@@ -1,0 +1,17 @@
+{
+    "name" : "Optima",
+    "code" : "CSAZ-803",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Eye-Catching", "left": "true" },
+        { "i": "1.jpg", "v": "Incredible Display", "left": "false" },
+        { "i": "2.jpg", "v": "Easy I/O Access", "left": "true" },
+        { "i": "3.jpg", "v": "Storage Media Holder", "left": "false" },
+        { "i": "4.jpg", "v": "Simple Access", "left": "true" }
+    ]
+}

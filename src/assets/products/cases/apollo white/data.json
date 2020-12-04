@@ -1,0 +1,20 @@
+{
+    "name" : "Apollo White",
+    "code" : "CSAZ-430W",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Mecha White Composition", "left": "false" },
+        { "i": "2.jpg", "v": "Filtered Ventilation", "left": "true" },
+        { "i": "3.jpg", "v": "Clean-cut RGB", "left": "true" },
+        { "i": "4.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "5.jpg", "v": "Top I/O", "left": "true" },
+        { "i": "6.jpg", "v": "ARGB Fan Included", "left": "false" },
+        { "i": "7.jpg", "v": "SSD Sliders", "left": "true"}
+    ]
+}

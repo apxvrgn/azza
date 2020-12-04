@@ -1,0 +1,18 @@
+{
+    "name" : "Inferno",
+    "code" : "CSAZ-310",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Iconic", "left": "true" },
+        { "i": "2.jpg", "v": "Filtered Ventilation", "left": "false" },
+        { "i": "3.jpg", "v": "Legacy Support", "left": "false" },
+        { "i": "4.jpg", "v": "Hard Drive Cage", "left": "false" },
+        { "i": "5.jpg", "v": "Top I/O", "left": "true" },
+        { "i": "6.jpg", "v": "Tempered Glass", "left": "true" }
+    ]
+}

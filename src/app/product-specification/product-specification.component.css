@@ -1,0 +1,54 @@
+.wrapper {
+    width: calc(90vw - 4rem);
+    min-height: calc(100vh - 4rem);
+    padding: 2rem 4rem;
+    user-select: text;
+}
+
+ul {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.heading {
+    font-family: 'sofia-pro', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.secondary {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    list-style: none;
+    justify-content: left;
+}
+
+a {
+    color: white !important;
+}
+
+.row {
+    padding: 1rem 0;
+}
+
+.a {
+    padding: 0 2rem;
+    width: 50%;
+    font-family: 'sofia-pro', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.b {
+    padding: 0 2rem;
+    width: 50%;
+    max-width: 50%;
+    font-family: 'sofia-pro', sans-serif;
+    font-size: 1rem;
+    font-weight: 200;
+    white-space:pre;
+}

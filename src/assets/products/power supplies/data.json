@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "550W",
+        "desc": "LUL",
+        "image": "550w.png"
+    },
+    {
+        "name" : "650W",
+        "desc": "LUL",
+        "image": "650w.png"
+    },
+    {
+        "name" : "650W ARGB",
+        "desc": "LUL",
+        "image": "650wrgb.png"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "name" : "Zircon White",
+    "code" : "CSAZ-7000W",
+    "type" : "ATX Full-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png",
+        "5.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Minimalist Extraordinaire", "left": "false" },
+        { "i": "2.jpg", "v": "Dual Tempered Glass", "left": "true" },
+        { "i": "3.jpg", "v": "Filtered Ventilation", "left": "true" },
+        { "i": "4.jpg", "v": "Backside Cable Cover", "left": "false" },
+        { "i": "5.jpg", "v": "Bottom Dust Filtration", "left": "true" },
+        { "i": "6.jpg", "v": "Illuminated Side I/O", "left": "true" },
+        { "i": "7.jpg", "v": "HDD/SSD Brackets", "left": "false" },
+        { "i": "8.jpg", "v": "Cable Management Bar", "left": "true" }
+    ]
+}

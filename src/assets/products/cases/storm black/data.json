@@ -1,0 +1,18 @@
+{
+    "name" : "Storm Black",
+    "code" : "CSAZ-6000B",
+    "type" : "ATX Full-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Bold & Imposing", "left": "true" },
+        { "i": "2.jpg", "v": "Legacy Support", "left": "false" },
+        { "i": "3.jpg", "v": "Tempered Glass", "left": "true" },
+        { "i": "4.jpg", "v": "Top I/O", "left": "false" },
+        { "i": "5.jpg", "v": "Hard Drive Cage", "left": "true" },
+        { "i": "6.jpg", "v": "Abundant Fans", "left": "false" }
+    ]
+}

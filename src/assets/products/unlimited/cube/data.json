@@ -1,0 +1,17 @@
+{
+    "name" : "Cube",
+    "code" : "CSAZ-802",
+    "type" : "ATX Cube Enclosure",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Otherworldly", "left": "false" },
+        { "i": "2.jpg", "v": "Dual Chamber Design", "left": "false" },
+        { "i": "3.jpg", "v": "Triple Dark Glass", "left": "false" },
+        { "i": "4.jpg", "v": "Stylistic Case Stand", "left": "true" },
+        { "i": "5.jpg", "v": "Photogenic RGB", "left": "true" }
+    ]
+}

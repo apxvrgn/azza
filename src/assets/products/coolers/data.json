@@ -1,0 +1,67 @@
+[
+    {
+        "name" : "raven",
+        "desc": "LUL",
+        "image": "assets/products/cases/raven.png"
+    },
+    {
+        "name" : "chroma a",
+        "desc": "LUL",
+        "image": "assets/products/cases/achroma.png"
+    },
+    {
+        "name" : "chroma b",
+        "desc": "LUL",
+        "image": "assets/products/cases/bchroma.png"
+    },
+    {
+        "name" : "iris",
+        "desc": "LUL",
+        "image": "assets/products/cases/iris.png"
+    },
+    {
+        "name" : "inferno",
+        "desc": "LUL",
+        "image": "assets/products/cases/bastion.png"
+    },
+    {
+        "name" : "thor",
+        "desc": "LUL",
+        "image": "assets/products/cases/thor.png"
+    },
+    {
+        "name" : "obsidian",
+        "desc": "LUL",
+        "image": "assets/products/cases/obsidian.png"
+    },
+    {
+        "name" : "titan",
+        "desc": "LUL",
+        "image": "assets/products/cases/titan.png"
+    },
+    {
+        "name" : "photios",
+        "desc": "LUL",
+        "image": "assets/products/cases/photios.png"
+    },
+    {
+        "name" : "onyx",
+        "desc": "LUL",
+        "image": "assets/products/cases/onyx.png"
+    },
+    {
+        "name" : "blaze",
+        "desc": "LUL",
+        "image": "assets/products/cases/blaze.png"
+    },
+    {
+        "name" : "crimson",
+        "desc": "LUL",
+        "image": "assets/products/cases/crimson.png"
+    },
+    {
+        "name" : "golem",
+        "desc": "LUL",
+        "image": "assets/products/cases/golem.png"
+    }
+]

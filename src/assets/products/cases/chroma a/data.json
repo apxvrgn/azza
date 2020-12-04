@@ -1,0 +1,16 @@
+{
+    "name" : "Chroma A",
+    "code" : "CSAZ-410A",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Smooth Linear Design", "left": "true" },
+        { "i": "2.jpg", "v": "Tempered Glass", "left": "true" },
+        { "i": "3.jpg", "v": "Accessible I/O", "left": "false" },
+        { "i": "4.jpg", "v": "Vibrant RGB", "left": "true" }
+    ]
+}

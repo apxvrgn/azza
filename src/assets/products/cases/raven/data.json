@@ -1,0 +1,18 @@
+{
+    "name" : "Raven",
+    "code" : "CSAZ-420",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Clean Jet-Black Design", "left": "true" },
+        { "i": "2.jpg", "v": "Filtered Ventilation", "left": "true" },
+        { "i": "3.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "4.jpg", "v": "Hard Drive Cage", "left": "false" },
+        { "i": "5.jpg", "v": "RGB Control", "left": "false" },
+        { "i": "6.jpg", "v": "SSD Sliders", "left": "true" }
+    ]
+}

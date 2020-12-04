@@ -1,0 +1,19 @@
+{
+    "name" : "Pyramid",
+    "code" : "CSAZ-804",
+    "type" : "ATX Pyramid Enclosure",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "The Apex", "left": "true" },
+        { "i": "2.jpg", "v": "Flip Glass Access", "left": "false" },
+        { "i": "3.jpg", "v": "Front I/O", "left": "true" },
+        { "i": "4.jpg", "v": "Dual Level Design", "left": "true" },
+        { "i": "5.jpg", "v": "Included RGB Fan", "left": "false" },
+        { "i": "6.jpg", "v": "Anodized Aluminum Exterior", "left": "true" }
+    ]
+}

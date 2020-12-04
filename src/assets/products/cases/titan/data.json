@@ -1,0 +1,20 @@
+{
+    "name" : "Titan",
+    "code" : "CSAZ-240",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Clean Divisions", "left": "true" },
+        { "i": "2.jpg", "v": "Legacy Support", "left": "false" },
+        { "i": "3.jpg", "v": "Transparent Design", "left": "true" },
+        { "i": "4.jpg", "v": "Top I/O", "left": "false" },
+        { "i": "5.jpg", "v": "Tempered Glass", "left": "true" },
+        { "i": "6.jpg", "v": "Illuminated Logo", "left": "true" },
+        { "i": "7.jpg", "v": "Hard Drive Cage", "left": "false" }
+    ]
+}

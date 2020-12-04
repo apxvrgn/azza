@@ -1,0 +1,15 @@
+<div class="wrapper">
+    <div class="text-img">
+        <img src="assets/products/top.jpg" class="top">
+        <div class="title-text">
+            <h2>{{type}}</h2>
+        </div>
+    </div>
+    <ul>
+        <li *ngFor="let product of products" routerLink="/products/{{type}}/{{product.name}}">
+            <img src="assets/products/{{type}}/{{product.image}}">
+            <h1>{{product.name}}</h1>
+        </li>
+    </ul>
+    <img src="assets/products/bottom.jpg" class="bottom">
+</div>

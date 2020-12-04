@@ -1,0 +1,18 @@
+{
+    "name" : "Luminous",
+    "code" : "CSAZ-110",
+    "type" : "Micro-ATX Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Slick-Cut Edges", "left": "false" },
+        { "i": "2.jpg", "v": "Top I/O", "left": "true" },
+        { "i": "3.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "4.jpg", "v": "Included RGB Fan", "left": "true" },
+        { "i": "5.jpg", "v": "SSD Sliders", "left": "true" }
+    ]
+}

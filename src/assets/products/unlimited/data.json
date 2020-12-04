@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "cube",
+        "desc": "LUL",
+        "image": "cube.png"
+    },
+    {
+        "name" : "cube mini",
+        "desc": "LUL",
+        "image": "cube mini.png"
+    },
+    {
+        "name" : "optima",
+        "desc": "LUL",
+        "image": "optima.png"
+    },
+    {
+        "name" : "pyramid",
+        "desc": "LUL",
+        "image": "pyramid.png"
+    },
+    {
+        "name" : "pyramid mini",
+        "desc": "LUL",
+        "image": "pyramid mini.png"
+    },
+    {
+        "name" : "pyramid XL",
+        "desc": "LUL",
+        "image": "pyramid xl.png"
+    },
+    {
+        "name" : "cast white",
+        "desc": "LUL",
+        "image": "cast white.png"
+    },
+    {
+        "name" : "cast black",
+        "desc": "LUL",
+        "image": "cast black.png"
+    }
+]

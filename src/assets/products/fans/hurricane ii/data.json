@@ -1,0 +1,17 @@
+{
+    "name" : "Hurricane II",
+    "code" : "FNAZ-12DRGB2",
+    "type" : "Our premier 120 mm ARGB Fan",
+    "overview": [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Aurora", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "true" },
+        { "i": "3.jpg", "v": "", "left": "true" },
+        { "i": "4.jpg", "v": "Addressable RGB", "left": "true" },
+        { "i": "5.jpg", "v": "", "left": "true" },
+        { "i": "6.jpg", "v": "Refined Lighting", "left": "false" }
+    ]
+}

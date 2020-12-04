@@ -1,0 +1,20 @@
+{
+    "name" : "Apollo Black",
+    "code" : "CSAZ-430B",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+    ],
+    "features": [
+        { "i": "1.jpg", "v": "Dark Elegance", "left": "false" },
+        { "i": "2.jpg", "v": "Filtered Ventilation", "left": "true" },
+        { "i": "3.jpg", "v": "Clean-cut RGB", "left": "false" },
+        { "i": "4.jpg", "v": "Tempered Glass", "left": "true" },
+        { "i": "5.jpg", "v": "Top I/O", "left": "true" },
+        { "i": "6.jpg", "v": "ARGB Fan Included", "left": "false" }
+    ]
+}
