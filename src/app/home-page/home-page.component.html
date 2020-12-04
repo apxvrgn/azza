@@ -2,9 +2,15 @@
 <section id="top">
     <ngb-carousel *ngIf="images">
         <ng-template ngbSlide *ngFor="let image of images">
-          <div class="img-wrapper">
+          <div class="iframe-wrapper">
             <img src="assets/home/{{image.img}}" *ngIf="image.img">
-            <iframe [src]="test()" *ngIf="image.vid"></iframe>
+            <iframe [src]="test()" *ngIf="image.vid">
+                <style>
+                    iframe {
+                        width: 1000px;
+                    }
+                </style>
+            </iframe>
             <img>
           </div>
           <div class="title-text" *ngIf="image.text">
