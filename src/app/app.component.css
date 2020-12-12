@@ -101,6 +101,10 @@ a {
     color: #bcbcbc;
 }
 
+.footer a {
+    color: #bcbcbc !important;
+}
+
 .expand {
     display: flex;
     flex-direction: row;

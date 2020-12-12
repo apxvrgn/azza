@@ -27,7 +27,7 @@ h4 {
 section {
     width: 100%;
     max-width: 100%;
-    margin-bottom: 2rem;
+    margin-bottom: 10rem;
 }
 
 .section-title {
@@ -38,8 +38,9 @@ section {
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-bottom: 2rem;
+    /*margin-bottom: 2rem;*/
     box-shadow: 0  1px 2px 1px rgba(8, 160, 199, 1);
+    background-color: #6d6d6d;
 }
 
 .section-title h4 {

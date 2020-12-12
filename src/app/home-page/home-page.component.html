@@ -13,9 +13,12 @@
             </iframe>
             <img>
           </div>
-          <div class="title-text" *ngIf="image.text">
+          <div class="title-ui" *ngIf="image.text">
             <h1>{{image.text}}</h1>
             <h2>{{image.name}}</h2>
+            <div class="learn-btn" *ngIf="image.img">
+                <h5 routerLink="{{image.link}}">learn more</h5>
+            </div>
           </div>
         </ng-template>
       </ngb-carousel>
