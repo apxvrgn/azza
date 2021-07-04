@@ -1,0 +1,16 @@
+{
+    "name" : "RGB PCI-e Cable",
+    "code" : "ACAZ-2OR",
+    "type" : "ARGB PCI-e 3.0 Riser Cable",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Brilliant Luminescence", "left": "true" },
+        { "i": "1.jpg", "v": "Premium Cabling", "left": "false" },
+        { "i": "2.jpg", "v": "", "left": "true" },
+        { "i": "3.jpg", "v": "", "left": "false" }
+    ]
+}

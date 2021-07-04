@@ -15,19 +15,24 @@
         "image": "optima.png"
     },
     {
+        "name" : "overdrive",
+        "desc": "LUL",
+        "image": "overdrive.png"
+    },
+    {
         "name" : "pyramid",
         "desc": "LUL",
         "image": "pyramid.png"
     },
     {
+        "name" : "pyramid l",
+        "desc": "LUL",
+        "image": "pyramid l.png"
+    },
+    {
         "name" : "pyramid mini",
         "desc": "LUL",
         "image": "pyramid mini.png"
-    },
-    {
-        "name" : "pyramid XL",
-        "desc": "LUL",
-        "image": "pyramid xl.png"
     },
     {
         "name" : "cast white",

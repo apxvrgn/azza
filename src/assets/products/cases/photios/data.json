@@ -13,7 +13,7 @@
         { "i": "2.jpg", "v": "Legacy Drive Support", "left": "false" },
         { "i": "3.jpg", "v": "Tempered Glass", "left": "true" },
         { "i": "4.jpg", "v": "Hard Drive Cage", "left": "false" },
-        { "i": "5.jpg", "v": "Accessible I/O", "left": "true" }
+        { "i": "5.jpg", "v": "Accessible I/O", "left": "true" },
         { "i": "6.jpg", "v": "", "left": "true" }
     ]
 }

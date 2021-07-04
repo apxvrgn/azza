@@ -10,10 +10,12 @@ import { NgbCarouselConfig } from '@ng-bootstrap/ng-bootstrap';
 export class HomePageComponent implements OnInit {
   
   images: any[] = [
+    { img: 'catalog.jpg', text: '2021', name: 'Product Catalog', assetlink: 'assets/catalog.pdf'},
+    { vid: 'https://www.youtube.com/embed/4UNzRqGJ2Y0' },
     { img: '0.jpg', text: 'all-new', name: 'pyramid mini', link: 'products/unlimited/pyramid mini'},
     { img: '1.jpg', text: 'glow up', name: 'celesta', link: 'products/cases/celesta'},
     { img: '2.jpg', text: 'relentless', name: 'eclipse', link: 'products/cases/eclipse'},
-    { vid: 'https://www.youtube.com/watch?v=Es9w4Ja1GFM' }
+    { vid: 'https://www.youtube.com/embed/A0C_RPKAZzQ' }
   ];
 
   constructor(private sanitizer: DomSanitizer, config: NgbCarouselConfig) {
@@ -24,8 +26,8 @@ export class HomePageComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  test() {
-    return this.sanitizer.bypassSecurityTrustResourceUrl('https://www.youtube.com/embed/Es9w4Ja1GFM');
+  sanitizeURL(url: string) {
+    return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
 
 }

@@ -1,5 +1,17 @@
 {
     "name" : "AZZA 650W ARGB PSU",
-    "code" : "PSAZ-650W(ARGB)",
-    "type" : "80 Plus Bronze ARGB Power Supply"
+    "code" : "PSAZ-650W (ARGB)",
+    "type" : "80 Plus Bronze 650W ARGB Power Supply",
+    "overview" : [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "false" },
+        { "i": "3.jpg", "v": "", "left": "true" },
+        { "i": "4.jpg", "v": "", "left": "true" },
+        { "i": "5.jpg", "v": "", "left": "true" },
+        { "i": "6.jpg", "v": "", "left": "true" }
+    ]
 }

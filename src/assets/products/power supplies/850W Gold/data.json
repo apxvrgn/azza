@@ -1,0 +1,17 @@
+{
+    "name" : "AZZA 850W Gold PSU",
+    "code" : "PSAZ-850G14",
+    "type" : "80 Plus Gold certified 850W power supply",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "true" }
+    ]
+}

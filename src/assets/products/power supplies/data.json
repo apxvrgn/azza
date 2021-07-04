@@ -13,5 +13,25 @@
         "name" : "650W ARGB",
         "desc": "LUL",
         "image": "650wrgb.png"
+    },
+    {
+        "name" : "750W",
+        "desc": "LUL",
+        "image": "750w.png"
+    },
+    {
+        "name" : "750W ARGB",
+        "desc": "LUL",
+        "image": "750wrgb.png"
+    },
+    {
+        "name" : "750W Gold",
+        "desc": "LUL",
+        "image": "750g.png"
+    },
+    {
+        "name" : "850W Gold",
+        "desc": "LUL",
+        "image": "850g.png"
     }
 ]

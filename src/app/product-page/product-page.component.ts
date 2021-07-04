@@ -33,7 +33,6 @@ export class ProductPageComponent implements OnInit {
         this.product.type = data.type;
         this.product.features = data.features;
         this.product.overview = data.overview;
-        console.log(this.product);
       });
     });
   }

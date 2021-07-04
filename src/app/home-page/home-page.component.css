@@ -58,9 +58,9 @@ img {
     display: inline-block;
     padding: 0.25rem 0.5rem;
     margin-top: 2rem;
-    border: #ffffff 4px solid;
+    border: #ffffff 0.25rem solid;
     color: #ffffff;
-    margin-left: 4px;
+    margin-left: 0.25rem;
     cursor: pointer;
 }
 

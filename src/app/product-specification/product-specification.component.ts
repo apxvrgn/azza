@@ -29,7 +29,6 @@ export class ProductSpecificationComponent implements OnInit {
 
   constructor(private xlsx: XlsxService) {
     this.data = [];
-    console.log(this.data);
   }
 
   ngOnInit(): void {

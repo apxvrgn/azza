@@ -1,5 +1,15 @@
 {
     "name" : "AZZA 650W PSU",
     "code" : "PSAZ-650W",
-    "type" : "80 Plus Bronze certified 650W power supply"
+    "type" : "80 Plus Bronze certified 650W power supply",
+    "overview" : [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "false" },
+        { "i": "3.jpg", "v": "", "left": "true" },
+        { "i": "4.jpg", "v": "", "left": "true" }
+    ]
 }

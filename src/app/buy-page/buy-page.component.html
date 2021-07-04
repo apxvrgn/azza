@@ -1,0 +1,22 @@
+<select (change)="UpdateRegion($event.target.value)">
+    <label>Choose a Region</label>
+    <option *ngFor="let d of data" value="{{d.region}}">
+        {{d.region}}
+    </option>
+</select>
+<div [ngSwitch]="selected_region">
+    <div *ngFor="let d of data">
+        <ul *ngSwitchCase="d.region">
+            <li>
+                <div class="col">
+                    <div class="store-list">
+                        <div class="store" *ngFor="let s of d.data" >
+                            <h3>{{s.country}}</h3> 
+                            <img src="assets/buy/{{d.region}}/{{s.image}}" (click)="OpenPage($event)" alt="{{s.url}}">
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

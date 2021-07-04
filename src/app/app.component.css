@@ -36,6 +36,11 @@ a {
     color: #ffffff;
 }
 
+.navbar a svg {
+    height: 40px; 
+    fill: #ffffff;
+}
+
 .navbar ul li:hover {
     cursor: pointer;
 }
@@ -143,4 +148,11 @@ a {
     width: 20vw;
     max-height: 250px;
     fill: #676767;
+}
+
+@media only screen and (max-width : 600px)  {
+    .navbar a svg {
+        height: 30px; 
+        fill: #ffffff;
+    }    
 }

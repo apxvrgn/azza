@@ -65,9 +65,24 @@
         "image": "luminous.png"
     },
     {
+        "name" : "noir",
+        "desc": "LUL",
+        "image": "noir.png"
+    },
+    {
         "name" : "obsidian",
         "desc": "LUL",
         "image": "obsidian.png"
+    },
+    {
+        "name" : "octane a",
+        "desc": "LUL",
+        "image": "octane a.png"
+    },
+    {
+        "name" : "octane b",
+        "desc": "LUL",
+        "image": "octane b.png"
     },
     {
         "name" : "onyx black",
@@ -98,6 +113,11 @@
         "name" : "titan",
         "desc": "LUL",
         "image": "titan.png"
+    },
+    {
+        "name" : "zeno",
+        "desc": "LUL",
+        "image": "zeno.png"
     },
     {
         "name" : "zircon white",

@@ -1,0 +1,21 @@
+{
+    "name" : "Zeno",
+    "code" : "CSAZ-350",
+    "type" : "ATX Mid-Tower Case",
+    "overview" : [
+        "0.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png",
+        "5.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "Clean Brushstrokes", "left": "true" },
+        { "i": "1.jpg", "v": "Filtered Ventilation", "left": "true" },
+        { "i": "2.jpg", "v": "Exquisite Lighting", "left": "true" },
+        { "i": "3.jpg", "v": "Handy I/O", "left": "false" },
+        { "i": "4.jpg", "v": "Tempered Glass", "left": "false" },
+        { "i": "5.jpg", "v": "Chromatic Lighting", "left": "false" }
+    ]
+}

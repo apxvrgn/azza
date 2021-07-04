@@ -1,5 +1,14 @@
 {
     "name" : "AZZA 550W PSU",
     "code" : "PSAZ-550W",
-    "type" : "80 Plus Bronze certified 550W power supply"
+    "type" : "80 Plus Bronze certified 550W power supply",
+    "overview" : [
+        "0.png"
+    ],
+    "features": [
+        { "i": "0.jpg", "v": "", "left": "true" },
+        { "i": "1.jpg", "v": "", "left": "true" },
+        { "i": "2.jpg", "v": "", "left": "false" },
+        { "i": "3.jpg", "v": "", "left": "true" }
+    ]
 }

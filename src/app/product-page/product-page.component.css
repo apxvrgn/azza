@@ -77,6 +77,18 @@ section {
     margin: 1rem 0;
 }
 
+.download-btn {
+    display: inline-block;
+    padding: 0.3rem 0.3rem;
+    border: solid 0.1rem #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+.download-btn a {
+ text-decoration: none;
+ color: #fff;
+}
+
 #features .img-wrapper {
     display: flex;
     flex-direction: column;
@@ -129,6 +141,9 @@ section {
         align-items: center;
     }
     #overview .display-image {
+        width: 70%;
+    }
+    #overview .product-title {
         width: 70%;
     }
 }

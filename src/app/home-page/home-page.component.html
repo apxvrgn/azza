@@ -4,7 +4,7 @@
         <ng-template ngbSlide *ngFor="let image of images">
           <div class="iframe-wrapper">
             <img src="assets/home/{{image.img}}" *ngIf="image.img">
-            <iframe [src]="test()" *ngIf="image.vid">
+            <iframe [src]="sanitizeURL(image.vid)" *ngIf="image.vid">
                 <style>
                     iframe {
                         width: 1000px;
@@ -17,7 +17,10 @@
             <h1>{{image.text}}</h1>
             <h2>{{image.name}}</h2>
             <div class="learn-btn" *ngIf="image.img">
-                <h5 routerLink="{{image.link}}">learn more</h5>
+                <h5 routerLink="{{image.link}}" *ngIf="image.link">learn more</h5>
+                <a href="{{image.assetlink}}" *ngIf="image.assetlink" style="text-decoration: none; color: #ffffff;">
+                    <h5>learn more</h5>
+                </a>
             </div>
           </div>
         </ng-template>

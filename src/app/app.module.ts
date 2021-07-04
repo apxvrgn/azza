@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
+import { CommonModule } from '@angular/common';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,6 +12,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HomePageComponent } from './home-page/home-page.component';
 import { ContactPageComponent } from './contact-page/contact-page.component';
 import { AboutPageComponent } from './about-page/about-page.component';
+import { BuyPageComponent } from './buy-page/buy-page.component';
 
 @NgModule({
   declarations: [
@@ -20,10 +22,12 @@ import { AboutPageComponent } from './about-page/about-page.component';
     ProductSpecificationComponent,
     HomePageComponent,
     ContactPageComponent,
-    AboutPageComponent
+    AboutPageComponent,
+    BuyPageComponent
   ],
   imports: [
     BrowserModule,
+    CommonModule,
     AppRoutingModule,
     HttpClientModule,
     NgbModule
